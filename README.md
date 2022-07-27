@@ -1,4 +1,4 @@
-hi, i'm Nidhi  :)
+hi, i'm Nidhi ★
 ---
 computer science student at the pennsylvania state university.\
 maps, music, and math enthusiast.

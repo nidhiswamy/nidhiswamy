@@ -1,9 +1,9 @@
-hi, i'm Nidhi ★
+Hi, I'm Nidhi ★
 ---
-computer science student at the pennsylvania state university.\
-maps, music, and math enthusiast.
+Computer Science student at Penn State.\
+Maps, music, and math enthusiast.
 
-pronouns: she/her\
-email: nidhi.adms@gmail.com\
-[linkedin](https://www.linkedin.com/in/nidhiswamy) •
-[instagram](https://www.instagram.com/nidhiswamyy/)
+Pronouns: she/her\
+Email: nidhi.adms@gmail.com\
+[Linkedin](https://www.linkedin.com/in/nidhiswamy) •
+[Instagram](https://www.instagram.com/nidhiswamyy/)

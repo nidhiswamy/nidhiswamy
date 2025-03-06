@@ -1,6 +1,6 @@
 Hi, I'm Nidhi
 ---
-Computer Science graduate from Penn State.\
+Software Engineer.\
 Maps, music, and math enthusiast ★
 
 Personal Website: [nidhiswamy.com](https://nidhiswamy.com)\
